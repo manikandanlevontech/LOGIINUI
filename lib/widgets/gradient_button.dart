@@ -21,7 +21,7 @@ class GradientButton extends StatelessWidget {
             backgroundColor: Colors.transparent,
             shadowColor: Colors.transparent),
         child: Text(
-          'Sign in ',
+          'SIGN IN ',
           style: TextStyle(fontWeight: FontWeight.w600, fontSize: 17),
         ),
       ),
