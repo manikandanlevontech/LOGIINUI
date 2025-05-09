@@ -15,7 +15,7 @@ class LoginScreen extends StatelessWidget {
             children: [
               Image.asset('assets/images/signin_balls.png'),
               const Text(
-                'Sign in.',
+                'SIGN IN.',
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 50),
               ),
               const SizedBox(
